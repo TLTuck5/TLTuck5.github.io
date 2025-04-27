@@ -12,13 +12,10 @@
 
 */
 h1{
-   border: 2px, dotted, red;
-   
+border: 2px, dotted, red;
+   background-color: gray;
 }
 ul {
-  text-shadow: black, -4px -3px 5px
-}
-
-background {
-   background-color: gray;
+text-size: 28px;
+text-shadow: black, -4px -3px 5px
 }
