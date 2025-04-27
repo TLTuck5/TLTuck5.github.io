@@ -12,11 +12,14 @@
 
 */
 h1{
-border: 2px, dotted, red;
+border: 4px, dotted, red;
    background-color: ivory;
+text-alignment: center;
 }
 p {
 font-size: 28px;
+text-alignment: center;
+text-color: ivory
 }
 ul, a {
 text-size: 28px;
@@ -25,7 +28,7 @@ text-shadow: black, -4px -3px 5px
 img{
 margin: auto;
 display: block;
-border: 4px, groove, grey;
+border: 8px, groove, grey;
 }
 
 body {
