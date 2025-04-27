@@ -11,7 +11,14 @@
    Filename: TLTuck5.github.io
 
 */
-
+h1{
+   border: 2px, dotted, red;
+   
+}
 ul {
-  font-style 
+  text-shadow: black, -4px -3px 5px
+}
+
+background {
+   background-color: gray;
 }
