@@ -14,23 +14,23 @@
 h1{
 border: 4px, dotted, red;
    background-color: ivory;
-text-alignment: center;
+text-align: center;
 }
 p {
 font-size: 28px;
-text-alignment: center;
-text-color: ivory
+text-align: center;
+color: ivory
 }
 ul, a {
-text-size: 28px;
+font-size: 28px;
 text-shadow: black, -4px -3px 5px
 }
 img{
 margin: auto;
 display: block;
-border: 8px, groove, grey;
+border: 12px, groove, grey;
 }
 
 body {
-background-color: gray
+linear-gradient(300deg, red, grey, ivory)
 }
