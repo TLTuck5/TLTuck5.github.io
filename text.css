@@ -29,7 +29,7 @@ text-shadow: black, -4px -3px 5px
 }
 
 a:link {
-  color: 2E8B57;
+  color: #2E8B57;
 }
 
 a:visited {
@@ -41,7 +41,7 @@ a:hover {
 }
 
 a:active {
-  color: 2E8B57;
+  color: #2E8B57;
 }
 img{
 margin: auto;
@@ -50,6 +50,6 @@ border: 20px, groove, tomato;
 }
 
 body {
-background-image: linear-gradient(300deg, maroon, 696969, black);
+background-image: linear-gradient(300deg, maroon, #696969, black);
    background-size: cover
 }
