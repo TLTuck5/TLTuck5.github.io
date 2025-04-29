@@ -29,7 +29,7 @@ text-shadow: black, -4px -3px 5px
 }
 
 a:link {
-  color: sea green;
+  color: seagreen;
 }
 
 a:visited {
@@ -41,7 +41,7 @@ a:hover {
 }
 
 a:active {
-  color: sea green;
+  color: seagreen;
 }
 img{
 margin: auto;
@@ -50,6 +50,6 @@ border: 20px, groove, tomato;
 }
 
 body {
-background-image: linear-gradient(300deg, maroon, dim grey, black);
+background-image: linear-gradient(300deg, maroon, dimgrey, black);
    background-size: cover
 }
