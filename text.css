@@ -46,5 +46,6 @@ border: 12px, groove, grey;
 }
 
 body {
-background-image: linear-gradient(300deg, red, grey, ivory);
+background-image: linear-gradient(300deg, red, grey, black);
+   background-size: cover
 }
